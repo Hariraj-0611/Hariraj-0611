@@ -1,65 +1,83 @@
+<h1 align="center">Hi 👋, I'm Hari Raj</h1>
+<p align="center">
+🎓 Final Year B.Tech IT Student at K.S. Rangasamy College of Technology  
+</p>
 
-👋 Hi, I'm Hari Raj
-🎓 Final Year B.Tech IT Student at K.S. Rangasamy College of Technology
-💡 Tech Explorer | Backend Developer | Hackathon Enthusiast | Data Geek
+---
 
-🧠 About Me
-📍 Based in Tamil Nadu, India
+## 🧠 About Me
 
-🚀 Passionate about building scalable web apps and solving real-world tech problems
+- 🎓 Final Year IT student with a strong focus on backend and full-stack development  
+- 🔍 Passionate about microservices, APIs, and solving real-world problems with scalable tech  
+- 💻 Currently working on Spring Boot + React projects and data-driven dashboards  
+- 💡 Eager to explore cloud-native design, CI/CD pipelines, and distributed systems  
+- 🛠 Believe in writing clean code, automating the boring stuff, and continuous learning  
+- 🔥 Love building meaningful tech with logic 💡 and purpose 🚀
 
-🔧 Specialize in crafting microservices, automating workflows, and designing clean APIs
+---
 
-📊 Love transforming raw data into meaningful dashboards and insights
+## 🗂️ Portfolio
 
-🧑‍💻 Finalist in Smart India Hackathon and multiple inter-college tech fests
+🔗 [View My Portfolio](https://aakash-portfolio-b664d.web.app/)
 
-🎙️ Delivered talks and workshops on backend architecture and data analysis
+---
 
-💼 Tech Stack & Skills
-Languages: Java, Python, SQL, C
+## 🛠️ Projects
 
-Web Development: HTML5, CSS3, JavaScript (ES6+), React.js
+### 🔹 **Billing System – Microservices Architecture**
+- Built a modular billing app with **Invoice**, **Payment**, and **Notification** services
+- Used **RabbitMQ** for async messaging and **fallback mechanisms** for failures  
+🔗 [GitHub Repository](https://github.com/Balasastha-4/Balasastha-4)
 
-Backend: Spring Boot, REST APIs, MySQL
+### 🔹 **Full-Stack Expense Tracker**
+- Responsive tracker using **React**, **Spring Boot**, **REST API**, and **MySQL**
+- Features real-time updates with Axios integration and dynamic UI components  
+🔗 [GitHub Repository](#)
 
-Dev Tools: Git & GitHub, Docker, Postman, VS Code, IntelliJ
+### 🔹 **Sales Dashboard – Analytics App**
+- Developed an interactive Python dashboard for analyzing KPIs and forecasting sales  
+- Used **Pandas**, **NumPy**, **Matplotlib**, and **Seaborn** for visual insights  
+🔗 [GitHub Repository](#)
 
-Libraries & Analytics: NumPy, Pandas, Matplotlib, Seaborn
+---
 
-Others: Swagger, Maven, Axios, RabbitMQ, Figma
+## 🏆 Achievements
 
-🚀 Featured Projects
-🔹 Billing System (Microservices Architecture)
-Developed a modular billing system with separate Invoice, Payment, and Notification services. Integrated RabbitMQ for asynchronous communication and implemented fallback mechanisms for failure handling.
-Stack: Spring Boot, Docker, REST API, RabbitMQ, MySQL
+- 🥇 Finalist – **Smart India Hackathon 2024**, Government of India  
+- 🛠 Presented microservice-based projects in national and inter-college symposiums  
+- 🧑‍🏫 Conducted workshops on **Spring Boot**, **UI/UX**, and **Data Analytics**  
+- ✍️ Co-author in anthologies *Voice of Heart* and *Soulful Scribbles*  
+- 🌐 Created & deployed websites for college events and internal tools
 
-🔹 Full-Stack Expense Tracker
-Created a responsive web app to manage and visualize daily expenses. Users can add, edit, and delete transactions with real-time updates using Axios and React Hooks.
-Stack: React.js, Spring Boot, MySQL, Axios
+---
 
-🔹 Sales Dashboard (Data Analytics)
-Built a dynamic dashboard with Python to track KPIs and forecast trends. Used Matplotlib and Pandas to extract and visualize insights from structured datasets.
-Tools: Python, Pandas, NumPy, Matplotlib
+## 💻 Tech Stack
 
-🏆 Achievements & Highlights
-🥇 Finalist – Smart India Hackathon, 2024
+### 💬 Languages & Tools  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
-🛠 Selected at inter-college level for national coding and innovation challenges
+### 🔧 Frameworks & Tools  
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-🌐 Designed and deployed internal tools for college symposium & events
+---
 
-🧑‍🏫 Conducted tech workshops on "Spring Boot Simplified" and "Analytics with Python"
+## 🌐 Socials
 
-✍️ Co-authored research & creative writing in published anthologies
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari-raj/)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Balasastha-4/Balasastha-4)  
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/aakashkannan)
 
-🔗 Links
-💼 LinkedIn
+---
 
-🐱 GitHub – Hari Raj
+> _“Code with clarity. Design with purpose. Grow every day.”_
 
-🌐 Portfolio Website (Add your portfolio if available)
-
-📬 hariemail@gmail.com
-
-✨ “Code with clarity. Design with purpose. Evolve with every challenge.” 💻🌱
