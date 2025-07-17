@@ -52,12 +52,12 @@ Tools: Python, Pandas, NumPy, Matplotlib
 
 ✍️ Co-authored research & creative writing in published anthologies
 
-🌐 Online Presence
+🔗 Links
 💼 LinkedIn
 
-🐱 GitHub (Add your username)
+🐱 GitHub – Hari Raj
 
-🧠 Portfolio Website (Add your portfolio link)
+🌐 Portfolio Website (Add your portfolio if available)
 
 📬 hariemail@gmail.com
 
